@@ -1,1 +1,1 @@
-Wanted to push this to show that this was written here before any other public posts. 
+A Small Python Game to highlight inheritance and abstraction in Python. I created this as a tool to help teach students how to write a simple game and learn what it takes to manipulate objects in a Game Manager.
